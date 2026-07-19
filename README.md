@@ -11,7 +11,6 @@
 * 🌱 My academic and research interests revolve around **6G networks, ISAC (Integrated Sensing and Communications), and waveform efficiency**.
 * 📝 I recently published a peer-reviewed scientific paper on Free-Space Optical (FSO) networks under atmospheric turbulence in **MDPI Photonics**.
 * 👨‍🏫 I also work as an independent STEM tutor, breaking down complex physics and digital communications concepts for university students.
-* ⚡ **Fun fact:** When I am not compiling code or running simulations, you can find me playing the guitar or watching Korean and Japanese cinema.
 
 ## 🛠️ Tech Stack & Tools
 
